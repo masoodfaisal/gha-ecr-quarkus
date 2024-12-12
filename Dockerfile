@@ -1,6 +1,6 @@
 FROM amazonlinux:2023
 
-# Set working directory
+# Set working directory.
 WORKDIR /app
 
 # Install Python and dependencies
